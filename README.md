@@ -1,4 +1,5 @@
 ### Opa, tudo bom? 👋
+Meu nome é **Artur Santos**, atualmente sou estudante da Universidade Federal do Rio Grande do Norte, cursando Ciências e Tecnologia.
 
 ##
 
