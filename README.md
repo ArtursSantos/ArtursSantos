@@ -1,16 +1,28 @@
-### Hi there 👋
+### Opa, tudo bom? 👋
 
-<!--
-**ArtursSantos/ArtursSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estudo na UFRN
+- 🌱 Estudando Flutter e Dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+<a href="https://github.com/ArtursSantos">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtursSantos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtursSantos&layout=compact&langs_count=7&theme=transparent"/>
+</div>
+  
+##
+
+### 💻 TECNOLOGIAS
+As tecnologias com que já trabalhei e tive experiencias.
+
+<p float="left">
+  <img width="40" style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img width="40" style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJs">
+  <img width="40" style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+  <img width="40" style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+  <img width="40" style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
+  <img width="40" style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
+</p>
