@@ -10,8 +10,8 @@ Meu nome é **Artur Santos**, atualmente sou estudante da Universidade Federal d
 
 <div>
 <a href="https://github.com/ArtursSantos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtursSantos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtursSantos&layout=compact&langs_count=7&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtursSantos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true%22"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtursSantos&layout=compact&theme=transparent"/>
 </div>
   
 ##
